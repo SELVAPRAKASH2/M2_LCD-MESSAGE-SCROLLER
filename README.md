@@ -1,6 +1,6 @@
 # M2_LCD_MESSAGE_SCROLLER
-
-# BADGES
+-----------------------------------------------------------
+# `Badges`
 # CODE QUALITY ![CODE QUALITY SCORE]
 # CODE GRADE ![CODE GRADE]
 
