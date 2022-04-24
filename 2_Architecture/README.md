@@ -22,5 +22,5 @@
 * An integrated circuit that contains a microprocessor along with memory and associated circuits and that controls the whole system. 
 * Atmega-328 is used as per the project requirement to gater the screenind data and to send that to the LCD module.
 
-# 1.5 Power Supply
+# Power Supply
 * The DC energy supply powers Microcontroller and different components in theis circuit. 
