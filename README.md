@@ -29,8 +29,10 @@ SH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Build-Linux.yml/badge.svg)](https:
 [![Valgrind](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Valgrind.yml)
 
 
-# IN ACTION
-
 # OFF MODE:
+![OFF MODE](https://user-images.githubusercontent.com/102603354/164968273-8cf4310c-bd8b-4b69-b711-0e70615d3450.jpg)
+
+
 
 # ON MODE:
+![ON MODE](https://user-images.githubusercontent.com/102603354/164968284-553b2129-375d-42d2-b6dd-61b7bf7f9a39.jpg)
