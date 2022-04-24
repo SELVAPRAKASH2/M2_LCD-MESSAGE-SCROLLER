@@ -1,6 +1,6 @@
 # Output
 -------------------------------------------------------------------------
-This folder contains the Hex file,Elf file,Simu file as well as the output images of the simulation
+This folder contains the Hex file,Elf file,Simu file as well as the output images of the simulation.
 -------------------------------------------------------------------------
 
 # Simulation Images
