@@ -20,8 +20,7 @@
 
 
 # BUILD ON LINUX:
-[![Build-Linux](https://github.com/SELVAPRAKA
-SH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Build-Linux.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Build-Linux.yml)
+
 
 
 
