@@ -1,6 +1,6 @@
-# AUTO LCD TEXT SCROLLER
+# AUTO_LCD_TEXT_SCROLLER
 
-## INTRODUCTION:
+## INTRODUCTION :
 
 The "LCD AUTO-TEXT SCROLLER" project is built to display the user given text or any messages in the LCD diplay pannel. People can see the LCD displaypannel and know the message. This circuit can be placed in any place they want, and it can be very helpful for public relavented applicances.
 
@@ -9,13 +9,13 @@ In today’s world, there is continuous need automatic appliance will be increas
 This Project is useful in developing countries and this project has a bright future.
 And this project is already used in many Stores, Hospitals, Hotels, Railway stations, Bus stops, Super market and many companies, industries. This project can also used with any sensors or other components to display their output on LCD display pannel for any alert messages or other purposes.
 
-## OBJECTIVES:
+## OBJECTIVES :
 
 * This project is built on the motive of screening the automatic scrolling text message on LCD pannel. People can know the information of an product and any alert messages whereever they in, without asking any others using this device. 
 
 * This circuit can be used to display the messages by an automatictext scrolling LCD pannel with (or) without time delay at any place, and it can be fixed anywhere, depending on user decision and it is simple and light weighted.
 
-## COMPONENTS:
+## COMPONENTS :
 
 * ATMEGA328
 
@@ -38,7 +38,7 @@ The Atmel 8-bit AVR RISC-based microcontroller combines 32 KB ISP flash memory w
 A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat.
 
 
-## LCD-HD44780:
+## LCD-HD44780 :
 
 The Hitachi HD44780 LCD controller is an alphanumeric dot matrix liquid crystal display (LCD) controller developed by Hitachi in the 1980s. The character set of the controller includes ASCII characters, Japanese Kana characters, and some symbols in two 28 character lines. Using an extension driver, the device can display up to 80 characters.[1] The HD44780 is one of the most popular character LCDs ever made, with numerous third-party displays using its 16-pin interface and instruction set for compatibility.
 
@@ -71,19 +71,23 @@ The Hitachi HD44780 LCD controller is an alphanumeric dot matrix liquid crystal 
 * Not an IOT or Wireless device.
 
 
-## HIGH LEVEL REQUIREMENTS:
+## HIGH LEVEL REQUIREMENTS :
 
 |RID|DESCRIPTION|STATUS|
 |:--|:----------|:-----|
 |HLR1|ATMEGA INTERFACING|IMPLEMENTED|
 |HLR2|LCD INTERFCING|IMPLEMENTED|
 
-## LOW LEVEL REQUIREMENTS:
+## LOW LEVEL REQUIREMENTS :
 
 |RID|DESCRIPTION|STATUS|
 |:--|:----------|:-----|
 |LLR1| POTENTIOMETER INTERFACING | IMPLEMENTED|
 |LLR2|WIRE INTERFACING WITH ATMEGA328| IMPLEMENTED|
+
+## LCD TEST :
+
+![LCD TEST](https://user-images.githubusercontent.com/102603354/164970025-3393dfc1-1a33-4930-9dd4-c919d3b98bfa.jpeg)
 
 
 ## CONCLUSION :
