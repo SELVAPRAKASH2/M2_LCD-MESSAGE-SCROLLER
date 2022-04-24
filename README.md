@@ -30,9 +30,11 @@ SH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Build-Linux.yml/badge.svg)](https:
 
 
 # OFF MODE:
-![OFF MODE](https://user-images.githubusercontent.com/102603354/164968273-8cf4310c-bd8b-4b69-b711-0e70615d3450.jpg)
+![OFF MODE](https://user-images.githubusercontent.com/102603354/164968324-e08d4665-c570-4c6c-b757-ebbc4bd92506.jpg)
+
 
 
 
 # ON MODE:
-![ON MODE](https://user-images.githubusercontent.com/102603354/164968284-553b2129-375d-42d2-b6dd-61b7bf7f9a39.jpg)
+![ON MODE](https://user-images.githubusercontent.com/102603354/164968332-d3b83211-0371-43e0-bf55-13acf33342e8.jpg)
+
