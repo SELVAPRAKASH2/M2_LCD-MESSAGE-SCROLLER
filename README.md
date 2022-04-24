@@ -7,7 +7,7 @@
 # CODACY
 
 # UNIT TESTING:
-
+[![Unit Testing](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Unit%20Testing.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Unit%20Testing.yml)
 # CPPCHECK ANALYSIS
 
 # GIT INSPECTOR:
