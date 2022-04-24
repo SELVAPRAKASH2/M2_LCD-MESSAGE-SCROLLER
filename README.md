@@ -1,10 +1,11 @@
 # M2_LCD_MESSAGE_SCROLLER
 -----------------------------------------------------------
 # `Badges`
-# CODE QUALITY ![CODE QUALITY SCORE]
-# CODE GRADE ![CODE GRADE]
+# CODE QUALITY ![CODE QUALITY SCORE](https://api.codiga.io/project/33153/score/svg)
+# CODE GRADE ![CODE GRADE](https://api.codiga.io/project/33153/status/svg)
 
 # CODACY
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b004ba533a6450a8f4272c56c0b195f)](https://www.codacy.com/gh/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER&amp;utm_campaign=Badge_Grade)
 
 # UNIT TESTING:
 [![Unit Testing](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Unit%20Testing.yml/badge.svg)](https://github.com/SELVAPRAKASH2/M2_LCD-MESSAGE-SCROLLER/actions/workflows/Unit%20Testing.yml)
