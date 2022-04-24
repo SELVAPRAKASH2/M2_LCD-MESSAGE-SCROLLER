@@ -41,6 +41,18 @@ And this project is already used in many Stores, Hospitals, Hotels, Railway stat
 |LLR1| POTENTIOMETER INTERFACING | IMPLEMENTED|
 |LLR2|WIRE INTERFACING WITH ATMEGA328| IMPLEMENTED|
 
-## LOW LEVEL REQUIREMENTS :
+## SWOT ANALYSIS :
 
 ![SWOT analysis](https://user-images.githubusercontent.com/102603354/164971940-ee671040-b9c7-46eb-8d75-4009a81ce500.jpeg)
+
+## 4Ws and 1H
+
+WHAT : Automatic text scrolling system. 
+ 
+WHEN : At anytime.
+
+WHY: For displaying the text or any message.
+
+WHO: Anyone. 
+
+HOW:It can be screening after the user inputs the text.
